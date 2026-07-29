@@ -18,6 +18,8 @@ const paragrafoJavaScript = document.createElement("p")
 
 // 4.1 - atualizando o conteúdo do paragrafo
 paragrafoJavaScript.textContent = "Este paragrafo foi com JavaScript"
+
+// 4.1.1 - atualizando estilos do elemento
 paragrafoJavaScript.style.fontFamily = "sans-serif"
 paragrafoJavaScript.style.fontSize = "1.5rem"
 paragrafoJavaScript.style.backgroundColor = "deeppink"

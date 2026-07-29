@@ -7,7 +7,7 @@ const btnMenu = document.getElementById("btn-menu")
 
 const navPrincipal = document.getElementById("navecacao-primaria")
 const icone = btnMenu.querySelector("i")
-console.log(icone)
+
 
 btnMenu.addEventListener("click", abrirMenu)
 
